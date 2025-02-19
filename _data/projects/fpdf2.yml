@@ -7,8 +7,8 @@ tags:
 - pdf
 upforgrabs:
   name: up-for-grabs
-  link: https://github.com/PyFPDF/fpdf2/labels/up-for-grabs
+  link: https://github.com/py-pdf/fpdf2/labels/up-for-grabs
 stats:
-  issue-count: 24
-  last-updated: '2023-06-05T09:42:44Z'
-  fork-count: 176
+  issue-count: 28
+  last-updated: '2025-02-18T08:05:36Z'
+  fork-count: 265

@@ -15,8 +15,8 @@ tags:
 - gc
 upforgrabs:
   name: good first issue
-  link: https://github.com/eclipse/omr/labels/good%20first%20issue
+  link: https://github.com/eclipse-omr/omr/labels/good%20first%20issue
 stats:
-  issue-count: 53
-  last-updated: '2023-05-19T15:24:35Z'
-  fork-count: 384
+  issue-count: 50
+  last-updated: '2024-11-11T13:47:52Z'
+  fork-count: 397
